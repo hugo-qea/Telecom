@@ -1,0 +1,398 @@
+INF224/.DS_Store
+INF224/ccsocket.cpp
+INF224/ccsocket.h
+INF224/ccsocket.o
+INF224/Client.class
+INF224/depend-myprog
+INF224/film.cpp
+INF224/film.h
+INF224/film.o
+INF224/finder.cpp
+INF224/finder.h
+INF224/finder.o
+INF224/group.cpp
+INF224/group.h
+INF224/group.o
+INF224/main.cpp
+INF224/main.o
+INF224/Makefile
+INF224/multimedia.cpp
+INF224/multimedia.h
+INF224/multimedia.o
+INF224/myprog
+INF224/photo.h
+INF224/README.md
+INF224/tcpserver.cpp
+INF224/tcpserver.h
+INF224/tcpserver.o
+INF224/TP_INF224.cflags
+INF224/TP_INF224.config
+INF224/TP_INF224.creator
+INF224/TP_INF224.creator.user
+INF224/TP_INF224.cxxflags
+INF224/TP_INF224.files
+INF224/TP_INF224.includes
+INF224/video.h
+INF224/.vscode/c_cpp_properties.json
+INF224/.vscode/launch.json
+INF224/.vscode/settings.json
+INF224/Test/Client.class
+INF224/Test/Client.java
+INF224/Test/Finder.java
+INF224/Test/FinderMenuBar.java
+INF224/Test/FinderToolBar.java
+INF224/Test/Makefile
+INF224/Test/PlayButton.java
+INF224/Test/QuitButton.java
+INF224/Test/SearchButton.java
+INF224/Test/test.java
+INF224/swing/Client.class
+INF224/swing/Client.java
+Java-INF224/Client.class
+Java-INF224/Client.java
+TSIA 206/.vscode/settings.json
+TSIA 206/data/aeiou.mat
+TSIA 206/data/aeiou.wav
+TSIA 206/data/an_in_on.wav
+TSIA 206/data/new_aeiou.wav
+TSIA 206/data/period.m
+TSIA 206/Data 2/sig.mat
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_1_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_2_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_3_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_4_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_5_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_6_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_7_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_8_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_9_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_10_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_11_Number_9.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_0.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_1.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_2.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_3.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_4.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_5.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_6.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_7.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_8.wav
+TSIA 206/Data 2/SIG/SIG_Rep_12_Number_9.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_0.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_1.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_2.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_3.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_4.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_5.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_6.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_7.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_8.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_1_Number_9.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_0.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_1.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_2.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_3.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_4.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_5.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_6.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_7.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_8.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_2_Number_9.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_0.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_1.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_2.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_3.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_4.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_5.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_6.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_7.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_8.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_3_Number_9.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_0.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_1.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_2.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_3.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_4.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_5.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_6.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_7.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_8.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_4_Number_9.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_0.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_1.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_2.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_3.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_4.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_5.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_6.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_7.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_8.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_5_Number_9.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_0.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_1.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_2.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_3.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_4.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_5.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_6.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_7.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_8.wav
+TSIA 206/Data 2/SIG2/SIG2_Rep_6_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_1_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_2_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_3_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_4_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_5_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_6_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_7_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_8_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_9_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_10_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_11_Number_9.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_0.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_1.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_2.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_3.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_4.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_5.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_6.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_7.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_8.wav
+TSIA 206/Data 2/SIGMIX/SIGMIX_Rep_12_Number_9.wav
+TSIA 206/data-3/ltfat-1.1.0-win32.zip
+TSIA 206/data-3/mix.wav
+TSIA 206/data-3/new_mix.wav
+TSIA 206/data-3/template-TP-separation.ipynb
+TSIA 206/Lab 3/ltfat-1.1.0-win32.zip
+TSIA 206/Lab 3/mix.wav
+TSIA 206/Lab 3/new_mix.wav
+TSIA 206/.DS_Store
+TSIA201/.DS_Store
+TSIA201/Conversion-STFT-PW-files/.DS_Store
+TSIA201/Conversion-STFT-PW-files/caravan_48khz.wav
+TSIA201/Conversion-STFT-PW-files/new_caravan_efficient.wav
+TSIA201/Conversion-STFT-PW-files/new_caravan.wav
+TSIA201/Conversion-STFT-PW-files/ola.m
+TSIA201/Conversion-STFT-PW-files/tfct.m
+TSIA201/TP-bancs-de-filtres-fichiers/femme3.wav
+TSIA201/TP-bancs-de-filtres-fichiers/homme3.wav
+TSIA201/TP-bancs-de-filtres-fichiers/new2x(z).wav
+TSIA201/TP-bancs-de-filtres-fichiers/newx(z).wav
+TSIA201/TP-bancs-de-filtres-fichiers/S_0.wav
+TSIA201/TP-bancs-de-filtres-fichiers/S0.wav
+TSIA201/TP-bancs-de-filtres-fichiers/S0new.wav
+TSIA201/TP-bancs-de-filtres-fichiers/S0new2.wav
+TSIA201/TP-bancs-de-filtres-fichiers/S1.wav
+TSIA201/TP-bancs-de-filtres-fichiers/S1new.wav
+TSIA201/TP-bancs-de-filtres-fichiers/S1new2.wav
+TSIA201/TP-bancs-de-filtres-fichiers/x(z)
+TSIA201/TP-bancs-de-filtres-fichiers/x(z).wav
+TSIA203/.DS_Store
+TSIA203/data/MNIST/raw/t10k-images-idx3-ubyte
+TSIA203/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+TSIA203/data/MNIST/raw/t10k-labels-idx1-ubyte
+TSIA203/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+TSIA203/data/MNIST/raw/train-images-idx3-ubyte
+TSIA203/data/MNIST/raw/train-images-idx3-ubyte.gz
+TSIA203/data/MNIST/raw/train-labels-idx1-ubyte
+TSIA203/data/MNIST/raw/train-labels-idx1-ubyte.gz
+.DS_Store
+INF224.zip
