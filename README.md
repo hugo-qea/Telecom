@@ -1,5 +1,5 @@
 # Télécom Paris
-Labs sessions and assignments conducted during my second year at Télécom Paris. 
+Lab sessions and assignments conducted during my second year at Télécom Paris. 
 
 ## Information
 The coursework was decomposed in 2 study tracks and other specific classes.
