@@ -1,0 +1,7 @@
+NB	NOM	PRENOM
+2	Artaud	Antonin
+8	Aragon	Louis
+44	Gide	Andre
+45	Giono	Jean
+50	Lautreamont	None
+61	Mallarme	Stephane
